@@ -28,7 +28,7 @@ adder_tb.vhd       | 8-bit adder testbench.
 
 - [GHDL](http://ghdl.free.fr/)
 
-#### Procedures
+#### Procedimiento
 
 ```bash
 
